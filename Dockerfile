@@ -21,7 +21,7 @@
 #       xhost +
 #
 
-FROM node:10.9-stretch
+FROM node:12.13.0
 
 LABEL maintainer "Paul DeCarlo <toolboc@gmail.com>"
 
